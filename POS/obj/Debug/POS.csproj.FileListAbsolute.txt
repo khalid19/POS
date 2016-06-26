@@ -1,0 +1,169 @@
+D:\Tuhin\POS\POS\bin\POS.dll.config
+D:\Tuhin\POS\POS\bin\POS.dll
+D:\Tuhin\POS\POS\bin\POS.pdb
+D:\Tuhin\POS\POS\bin\Antlr3.Runtime.dll
+D:\Tuhin\POS\POS\bin\EntityFramework.dll
+D:\Tuhin\POS\POS\bin\EntityFramework.SqlServer.dll
+D:\Tuhin\POS\POS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Tuhin\POS\POS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Tuhin\POS\POS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.dll
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.Security.dll
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.Security.Google.dll
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Tuhin\POS\POS\bin\Microsoft.Web.Infrastructure.dll
+D:\Tuhin\POS\POS\bin\Newtonsoft.Json.dll
+D:\Tuhin\POS\POS\bin\Owin.dll
+D:\Tuhin\POS\POS\bin\System.Web.Helpers.dll
+D:\Tuhin\POS\POS\bin\System.Web.Mvc.dll
+D:\Tuhin\POS\POS\bin\System.Web.Optimization.dll
+D:\Tuhin\POS\POS\bin\System.Web.Razor.dll
+D:\Tuhin\POS\POS\bin\System.Web.WebPages.Deployment.dll
+D:\Tuhin\POS\POS\bin\System.Web.WebPages.dll
+D:\Tuhin\POS\POS\bin\System.Web.WebPages.Razor.dll
+D:\Tuhin\POS\POS\bin\WebGrease.dll
+D:\Tuhin\POS\POS\bin\System.Web.Helpers.xml
+D:\Tuhin\POS\POS\bin\System.Web.Mvc.xml
+D:\Tuhin\POS\POS\bin\System.Web.Optimization.xml
+D:\Tuhin\POS\POS\bin\System.Web.Razor.xml
+D:\Tuhin\POS\POS\bin\System.Web.WebPages.xml
+D:\Tuhin\POS\POS\bin\System.Web.WebPages.Deployment.xml
+D:\Tuhin\POS\POS\bin\System.Web.WebPages.Razor.xml
+D:\Tuhin\POS\POS\bin\Newtonsoft.Json.xml
+D:\Tuhin\POS\POS\bin\Antlr3.Runtime.pdb
+D:\Tuhin\POS\POS\bin\EntityFramework.xml
+D:\Tuhin\POS\POS\bin\EntityFramework.SqlServer.xml
+D:\Tuhin\POS\POS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Tuhin\POS\POS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Tuhin\POS\POS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.xml
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.Security.xml
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.Security.Google.xml
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Tuhin\POS\POS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Tuhin\POS\POS\obj\Debug\POS.dll
+D:\Tuhin\POS\POS\obj\Debug\POS.pdb
+D:\Tuhin\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+D:\Tuhin\New folder\POS\POS\bin\POS.dll.config
+D:\Tuhin\New folder\POS\POS\bin\POS.dll
+D:\Tuhin\New folder\POS\POS\bin\POS.pdb
+D:\Tuhin\New folder\POS\POS\bin\Antlr3.Runtime.dll
+D:\Tuhin\New folder\POS\POS\bin\EntityFramework.dll
+D:\Tuhin\New folder\POS\POS\bin\EntityFramework.SqlServer.dll
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.dll
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.Security.dll
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.Security.Google.dll
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Web.Infrastructure.dll
+D:\Tuhin\New folder\POS\POS\bin\Newtonsoft.Json.dll
+D:\Tuhin\New folder\POS\POS\bin\Owin.dll
+D:\Tuhin\New folder\POS\POS\bin\System.Web.Helpers.dll
+D:\Tuhin\New folder\POS\POS\bin\System.Web.Mvc.dll
+D:\Tuhin\New folder\POS\POS\bin\System.Web.Optimization.dll
+D:\Tuhin\New folder\POS\POS\bin\System.Web.Razor.dll
+D:\Tuhin\New folder\POS\POS\bin\System.Web.WebPages.Deployment.dll
+D:\Tuhin\New folder\POS\POS\bin\System.Web.WebPages.dll
+D:\Tuhin\New folder\POS\POS\bin\System.Web.WebPages.Razor.dll
+D:\Tuhin\New folder\POS\POS\bin\WebGrease.dll
+D:\Tuhin\New folder\POS\POS\bin\Newtonsoft.Json.xml
+D:\Tuhin\New folder\POS\POS\bin\System.Web.Helpers.xml
+D:\Tuhin\New folder\POS\POS\bin\System.Web.Mvc.xml
+D:\Tuhin\New folder\POS\POS\bin\System.Web.Optimization.xml
+D:\Tuhin\New folder\POS\POS\bin\System.Web.Razor.xml
+D:\Tuhin\New folder\POS\POS\bin\System.Web.WebPages.xml
+D:\Tuhin\New folder\POS\POS\bin\System.Web.WebPages.Deployment.xml
+D:\Tuhin\New folder\POS\POS\bin\System.Web.WebPages.Razor.xml
+D:\Tuhin\New folder\POS\POS\bin\Antlr3.Runtime.pdb
+D:\Tuhin\New folder\POS\POS\bin\EntityFramework.xml
+D:\Tuhin\New folder\POS\POS\bin\EntityFramework.SqlServer.xml
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.xml
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.Security.xml
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.Security.Google.xml
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Tuhin\New folder\POS\POS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Tuhin\New folder\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+D:\Tuhin\New folder\POS\POS\obj\Debug\POS.dll
+D:\Tuhin\New folder\POS\POS\obj\Debug\POS.pdb
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\POS.dll.config
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\POS.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\POS.pdb
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Antlr3.Runtime.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\EntityFramework.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\EntityFramework.SqlServer.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.Security.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Newtonsoft.Json.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Owin.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\System.Web.Helpers.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\System.Web.Mvc.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\System.Web.Optimization.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\System.Web.Razor.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\System.Web.WebPages.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\System.Web.WebPages.Razor.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\WebGrease.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Newtonsoft.Json.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\System.Web.Helpers.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\System.Web.Mvc.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\System.Web.Optimization.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\System.Web.Razor.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\System.Web.WebPages.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\System.Web.WebPages.Razor.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Antlr3.Runtime.pdb
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\EntityFramework.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\EntityFramework.SqlServer.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.Security.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\obj\Debug\POS.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\obj\Debug\POS.pdb
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\PagedList.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\PagedList.Mvc.dll
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\PagedList.xml
+C:\Users\khaliduzzaman\Desktop\Erpcoreection\POS\POS\bin\PagedList.Mvc.xml
